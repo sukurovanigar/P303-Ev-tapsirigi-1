@@ -1,0 +1,16 @@
+1. Niye "Github" istifade etmeliyik?
+Github yazilan kodlara
+"Github" bir nov depodur
+Proqramcilar oz kodlarini "Github"a yukleyirler
+Beleki bezen yazilan kodlarda sehfe yol verilir ve normalda bunu geri qaytarmaq olmur.. Amma Github da bu mumkundur.. 
+Yazilan kodlari gundelik olaraq "Github"a yulemek ve hetta muqayise bele etmek olur..
+Github cox elverisli bir vasitedir. Burada proqramcilar dunyanin istenilen yerinden birleserek qrup halinda kod yaza bilerler.. 
+Github menim fikrimce Proqramcilar ucun bir now facebookdur. Cunki onlar burada gundelik olaraq istifade ede, rey bildire, status paylasa bilirler..
+Ve hetta onlarin oz sexsi  profilleri de olur..
+Github:
+- Zamana qenaet edir
+- yazilan proqramlari depolayir ve esla itirmir
+- qrup halinda calismaga imkan yaradir
+- sehfleri muqayise etmeye imkan verir
+                                            Menim bildiklerim bu qeder :))
+                                                                       Shukurova Nigar <3
