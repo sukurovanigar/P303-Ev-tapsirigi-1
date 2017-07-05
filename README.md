@@ -1,1 +1,0 @@
-# P303-Ev-tapsirigi-1
