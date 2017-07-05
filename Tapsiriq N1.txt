@@ -1,5 +1,4 @@
 1. Niye "Github" istifade etmeliyik?
-Github yazilan kodlara
 "Github" bir nov depodur
 Proqramcilar oz kodlarini "Github"a yukleyirler
 Beleki bezen yazilan kodlarda sehfe yol verilir ve normalda bunu geri qaytarmaq olmur.. Amma Github da bu mumkundur.. 
